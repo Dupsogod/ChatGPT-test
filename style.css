@@ -9,3 +9,7 @@ body {
     background-color: #000;
     position: relative;
 }
+
+#score-board {
+    margin-bottom: 10px;
+}
